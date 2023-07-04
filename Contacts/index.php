@@ -7,5 +7,5 @@ $APPLICATION->SetTitle("Контакты");
     <br>
     vk.com/w84miracle
     <br>
-dsfdsfdsfdssds
+sadsadasdsada
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
